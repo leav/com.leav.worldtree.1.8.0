@@ -36,7 +36,7 @@ import net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 
-@Mod(modid = "leavworldtree", name = "Leav's World Tree Mod", version = "0.0.0")
+@Mod(modid = "leavworldtree", name = "Leav's World Tree Mod", version = "1.8.0-0.1")
 // @NetworkMod(clientSideRequired=true) // not used in 1.7
 public class WorldTree {
 
