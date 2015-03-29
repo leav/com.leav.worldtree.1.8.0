@@ -43,8 +43,15 @@ Temporary Items
 .apdisk
 
 # Custom
-bin
-build
-gradle
-.gradle
-eclipse
+*
+!.gitignore
+!readme.md
+!screenshots
+!src
+!build/libs
+
+#bin
+#build
+#gradle
+#.gradle
+#eclipse
