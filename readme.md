@@ -31,7 +31,7 @@ Acacia size=50
 ### For using it in Mine Craft client / server
 
 1. Install [Mine Craft Forge 1.8](http://files.minecraftforge.net/minecraftforge/1.8) using the installer.
-2. Put the .jar file from [build\libs](build\libs) into Mine Craft's mods folder.
+2. Put the .jar file from [build/libs](build/libs) into Mine Craft's mods folder.
 
 ### For source code
 
