@@ -1,4 +1,4 @@
-# World Tree mod for Mine Craft 1.8
+# World Tree mod for Minecraft 1.8
 
 ## Versions
 
@@ -28,10 +28,10 @@ Acacia size=50
 
 ## Installation
 
-### For using it in Mine Craft client / server
+### For using it in Minecraft client / server
 
-1. Install [Mine Craft Forge 1.8](http://files.minecraftforge.net/minecraftforge/1.8) using the installer.
-2. Put the .jar file from [build/libs](build/libs) into Mine Craft's mods folder.
+1. Install [Minecraft Forge 1.8](http://files.minecraftforge.net/minecraftforge/1.8) using the installer.
+2. Put the .jar file from [build/libs](build/libs) into Minecraft's mods folder.
 
 ### For source code
 
@@ -40,7 +40,7 @@ Acacia size=50
 
 ## Basic Usage
 
-Inside Mine Craft, type the following command to generate a tree on the point you are pointing at:
+Inside Minecraft, type the following command to generate a tree on the point you are pointing at:
 
 >/gt tree_type [size=n]
 
